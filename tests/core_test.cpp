@@ -1,4 +1,4 @@
-// 최문경 — deterministic tests for timing and monitor geometry
+
 #include "../src/core.hpp"
 #include <cassert>
 #include <iostream>

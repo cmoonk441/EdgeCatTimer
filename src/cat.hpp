@@ -1,4 +1,4 @@
-// 최문경 — original programmatic pixel cat, no external image dependency
+
 #pragma once
 #include <cstdint>
 #include <vector>

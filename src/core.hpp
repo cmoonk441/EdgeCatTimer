@@ -1,4 +1,4 @@
-// 최문경 — Edge Cat Timer
+
 #pragma once
 #include <algorithm>
 #include <cmath>
